@@ -15,9 +15,12 @@ class ProductList extends StatefulWidget {
 
 class _ProductListState extends State<ProductList> {
   List<Product> products = [
-    Product(name: 'Product 1', price: 10.0),
-    Product(name: 'Product 2', price: 15.0),
-    Product(name: 'Product 3', price: 20.0),
+    Product(name: 'Product 1', price: 10),
+    Product(name: 'Product 2', price: 20),
+    Product(name: 'Product 3', price: 30),
+    Product(name: 'Product 4', price: 40),
+    Product(name: 'Product 5', price: 50),
+    Product(name: 'Product 6', price: 60),
   ];
 
   @override
