@@ -1,16 +1,4 @@
 # orientation_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![356745520_662500512404848_4888983047753544049_n](https://github.com/sj-onu/Flutter-main/assets/67582404/8e582045-687a-444c-9cce-760e95ffbf4f)
+![356715067_626040485972906_2118986112158895028_n](https://github.com/sj-onu/Flutter-main/assets/67582404/40627148-7e0b-4648-9f1d-d4b4b393b934)
