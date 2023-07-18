@@ -51,7 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
         children: [
           CircleAvatar(
             radius: 100,
-            backgroundImage: NetworkImage('https://picsum.photos/id/237/200/300'),
+            backgroundImage: NetworkImage('https://thumbs.dreamstime.com/b/cute-man-face-cartoon-cute-man-face-cartoon-vector-illustration-graphic-design-135024353.jpg'),
           ),
           Expanded(
             child: Text('This is a portrait layout',
@@ -74,7 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
           CircleAvatar(
               radius: 100,
               backgroundImage:
-              NetworkImage('https://picsum.photos/id/237/200/300',
+              NetworkImage('https://thumbs.dreamstime.com/b/cute-man-face-cartoon-cute-man-face-cartoon-vector-illustration-graphic-design-135024353.jpg',
               )
           ),
           Text('This is the landscape layout',
